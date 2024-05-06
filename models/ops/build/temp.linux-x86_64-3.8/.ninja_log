@@ -1,0 +1,4 @@
+# ninja log v5
+3	4712	1661253459389428482	/dssg/home/ai2010813156/ai_studio/projects/grit/models/ops/build/temp.linux-x86_64-3.8/dssg/home/ai2010813156/ai_studio/projects/grit/models/ops/src/cpu/ms_deform_attn_cpu.o	dbd56b6a20e0a509
+3	13839	1661253468515966441	/dssg/home/ai2010813156/ai_studio/projects/grit/models/ops/build/temp.linux-x86_64-3.8/dssg/home/ai2010813156/ai_studio/projects/grit/models/ops/src/vision.o	81d08f813015b92e
+3	50261	1661253504933524608	/dssg/home/ai2010813156/ai_studio/projects/grit/models/ops/build/temp.linux-x86_64-3.8/dssg/home/ai2010813156/ai_studio/projects/grit/models/ops/src/cuda/ms_deform_attn_cuda.o	3461091033b413fd
